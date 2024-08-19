@@ -1,0 +1,9 @@
+{
+    "sketch": "BatterySolder.ino",
+    "board": "arduino:avr:uno",
+    "output": "./build",
+    "libraries": [
+        "C:\\Users\\matte\\Documents\\Arduino\\libraries"
+    ],
+    "port": "COM6"
+}

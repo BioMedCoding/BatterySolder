@@ -1,0 +1,27 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\matte\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\matte\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\standard"
+  },
+  {
+    "Sourcefile": "C:\\Users\\matte\\Documents\\GitHub\\BatterySolder\\build\\sketch\\BatterySolder.ino.cpp",
+    "Include": "LiquidCrystal.h",
+    "Includepath": "C:\\Users\\matte\\Documents\\Arduino\\libraries\\LiquidCrystal\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\matte\\Documents\\GitHub\\BatterySolder\\build\\sketch\\BatterySolder.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\matte\\Documents\\Arduino\\libraries\\LiquidCrystal\\src\\LiquidCrystal.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
